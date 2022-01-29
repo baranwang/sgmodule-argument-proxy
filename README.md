@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/baranwang/Surge-Resources/master/Modules/SubIn
 
 原 sgmodule 模版内容为
 
-```editorconfig
+```properties
 #!name=Sub Info Panel
 #!desc=build argument use sgmodule-argument-proxy.vercel.app
 
@@ -35,7 +35,7 @@ https://sgmodule-argument-proxy.vercel.app/api/temp?url=https%3A%2F%2Fraw.github
 
 输出内容为
 
-```editorconfig
+```properties
 #!name=Sub Info Panel
 #!desc=build argument use sgmodule-argument-proxy.vercel.app
 
